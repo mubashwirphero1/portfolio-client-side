@@ -26,7 +26,8 @@ const Banner = () => {
                                 1000,
                                 'React.js Developer',
                                 1000,
-                                'Back-end Developer'
+                                'Back-end Developer',
+                                1000
                             ]}
                             repeat={Infinity}
                         />
