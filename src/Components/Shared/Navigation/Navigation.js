@@ -16,7 +16,7 @@ const Navigation = () => {
         return classes.filter(Boolean).join(' ')
     }
     return (
-        <div className="mb-8 sticky top-0">
+        <div className="mb-32 sticky top-0">
             <Disclosure as="nav" className="bg-gray-800">
                 {({ open }) => (
                     <>
