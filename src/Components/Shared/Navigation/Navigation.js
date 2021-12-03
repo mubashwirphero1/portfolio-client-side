@@ -8,7 +8,6 @@ const Navigation = () => {
     const navigation = [
         { name: 'Home', href: '/home', current: false },
         { name: 'About Me', href: '/aboutME', current: false },
-        { name: 'Projects', href: '/projects', current: false },
         { name: 'Blogs', href: '/blogs', current: false },
     ]
 
